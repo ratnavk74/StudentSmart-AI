@@ -8,6 +8,10 @@ A student-first personal finance demo with a distinctive dark-navy + lime visual
 - **Money Mentor:** topic-based student finance guidance in English, Kannada, and Hindi (curated rule-based prototype).
 - **Transactions:** add transactions, import CSV, inspect ledger, export CSV, reset sample data.
 
+ **Live Prototype:** https://ratnavk74-studentsmart-ai-app-rjtzcr.streamlit.app
+ **GitHub Repository:** https://github.com/ratnavk74/StudentSmart-AI
+**How to try it:** Open the live prototype and click **“Explore demo without signing in.”**
+
 ## Run locally (Windows)
 1. Install Python 3.10 or newer from https://www.python.org/downloads/ and enable **Add Python to PATH**.
 2. Extract the ZIP.
